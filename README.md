@@ -1,3 +1,7 @@
 ### Bryan Sample
 
-I am a GIS/CS student 
+---
+
+I am a student at Bemidji State University studying Computer Science and Geographic Information Science.
+
+
