@@ -1,2 +1,3 @@
-Greetings, my name is Bryan
+### Bryan Sample
+
 I am a GIS/CS student 
