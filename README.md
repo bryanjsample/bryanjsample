@@ -13,16 +13,20 @@
 
 ---
 
-### Check out some of my work!
+### <div align="middle">Check out some of my work!</div>
 
-<a textDecoration="none" href="https://github.com/bryanjsample/get-business-data-from-google-maps">Google Maps Web Scraping Program 🗻</a> </br>
-
-<a textDecoration="none" href="https://github.com/bryanjsample/text-from-html-link">Text Message Automation Script 📱</a> </br>
-
-<a textDecoration="none" href="https://github.com/bryanjsample/download-combine-yearbooks-archive">Yearbook Image Download and Collate Script 📖</a> </br>
-
-<a textDecoration="none" href="https://github.com/bryanjsample/download_all_archive_images">Archived Images Download and Organize Script 🖼️]</a> </br
-
+<div align="middle">
+<a href="https://github.com/bryanjsample/get-business-data-from-google-maps">🗻 Google Maps Web Scraping Program</a> </br>
+</div>
+<div align="middle">
+<a href="https://github.com/bryanjsample/text-from-html-link">📱 Text Message Automation Script</a> </br>
+</div>
+<div align="middle">
+<a href="https://github.com/bryanjsample/download-combine-yearbooks-archive">📖 Yearbook Image Download and Collate Script</a> </br>
+</div>
+<div align="middle">
+<a href="https://github.com/bryanjsample/download_all_archive_images">🖼️ Archived Images Download and Organize Script</a> </br
+</div>
 
 
 ---
