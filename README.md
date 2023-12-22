@@ -13,7 +13,21 @@
 
 ---
 
-### <div align="middle"> Get In Touch</div>
+### Check out some of my work!
+
+<a textDecoration="none" href="https://github.com/bryanjsample/get-business-data-from-google-maps">Google Maps Web Scraping Program 🗻</a> </br>
+
+<a textDecoration="none" href="https://github.com/bryanjsample/text-from-html-link">Text Message Automation Script 📱</a> </br>
+
+<a textDecoration="none" href="https://github.com/bryanjsample/download-combine-yearbooks-archive">Yearbook Image Download and Collate Script 📖</a> </br>
+
+<a textDecoration="none" href="https://github.com/bryanjsample/download_all_archive_images">Archived Images Download and Organize Script 🖼️]</a> </br
+
+
+
+---
+
+### <div align="middle">Get In Touch!</div>
 
 <div id="badges" align="middle">
   <a id="gmail" href="mailto:bryanjsample@gmail.com">
@@ -26,3 +40,8 @@
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork_badge"/>
   </a>
 </div>
+
+---
+
+### <div align="middle">Thanks for stopping by! 👋 </div>
+
