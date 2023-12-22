@@ -16,7 +16,7 @@
 ### <div align="middle"> Get In Touch</div>
 
 <div id="badges" align="middle">
-  <a id="gmail" href="https://www.bryanjsample@gmail.com">
+  <a id="gmail" href="mailto:bryanjsample@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail_badge"/>
   </a>
   <a id="linkedin" href="https://www.linkedin.com/in/bryanjsample">
