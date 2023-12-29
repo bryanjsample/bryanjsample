@@ -8,8 +8,8 @@
 - I have a cat named Mango 🥭
 - My main areas of focus are:
 >  - 💻 Python programming
->  - 🕸️ Web Scraping
->  - 📊 Data Analysis
+>  - 🕸️ Web scraping
+>  - 📊 Data analysis
 
 ---
 
