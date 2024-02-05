@@ -6,7 +6,7 @@
 - I am a student at Bemidji State University 🦫 studying Computer Science and Geographic Information Science.
 - I am originally from Colorado Springs, CO ⛰️
 - I have a cat named Mango 🥭
-- My main areas of focus are:
+- My main areas of interest are:
 >  - 💻 Python programming
 >  - 🕸️ Web scraping
 >  - 📊 Data analysis
