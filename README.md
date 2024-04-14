@@ -9,7 +9,7 @@
 - My main areas of interest are:
 >  - 💻 Python programming
 >  - 🕸️ Web scraping
->  - 📊 Data analysis
+>  - 🔧 Shell scripting
 
 ---
 
