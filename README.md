@@ -16,6 +16,9 @@
 ### <div align="middle">Check out some of my work!</div>
 
 <div align="middle">
+<a href="https://github.com/bryanjsample/my_modules">🧰 Python Packages and Modules I Have Built</a> </br>
+</div>
+<div align="middle">
 <a href="https://github.com/bryanjsample/get-business-data-from-google-maps">🗻 Google Maps Web Scraping Program</a> </br>
 </div>
 <div align="middle">
