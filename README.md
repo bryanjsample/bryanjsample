@@ -3,10 +3,10 @@
 ---
 <div align="middle">
 
-### about me:
+```### about me:
 
 i am a student with a love for solving problems and not enough time to solve them all. having served in a diverse array of roles, i possess a robust background in customer service, leadership, and talent development. my unique skill set blending precision and efficiency can be applied in any environment that i find myself in, and i strive for perfection with every detail.
-
+```
 </div>
 
 ### <div align="middle">get in touch</div>
