@@ -1,11 +1,14 @@
 ### <div align="middle">🌲 **bryan sample** 🏂 </div>
 
 ---
+
 <div align="middle">
 
 ### to be so strong that nothing can disturb your peace of mind.
 
 </div>
+
+---
 
 ### <div align="middle">get in touch</div>
 
